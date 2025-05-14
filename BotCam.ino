@@ -7,9 +7,9 @@
 
 // Настройки
 #define LED_PIN 4
-#define WIFI_SSID "RT-WiFi-ABAC"
-#define WIFI_PASS "Dev5cid5B2"
-#define BOT_TOKEN "5867959560:AAFbTdPtgiRZA5W4teWDqIUqag59Xo3Otl0"
+#define WIFI_SSID "<YOUR-WIFI>"
+#define WIFI_PASS "<YOUR-PASS"
+#define BOT_TOKEN "<YOUR-BOT-TOKEN>"
 
 FastBot2 bot;
 
